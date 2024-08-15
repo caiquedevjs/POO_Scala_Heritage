@@ -1,0 +1,12 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Documents\frist_sacala_project\src\main\scala\Desenvolvedor.scala:1:29: not enough arguments for constructor Pessoa: (nome: String, idade: Int): Pessoa.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter idade.[0m
+[0m[[0m[31merror[0m] [0m[0mclass Desenvolvedor extends Pessoa(stack: Array[String]){[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Documents\frist_sacala_project\src\main\scala\Desenvolvedor.scala:2:33: not found: value stack[0m
+[0m[[0m[31merror[0m] [0m[0m    val skills: Array[String] = stack[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\hotmo\Documents\frist_sacala_project\src\main\scala\Main.scala:3:19: value nome is not a member of Pessoa[0m
+[0m[[0m[31merror[0m] [0m[0mdid you mean name?[0m
+[0m[[0m[31merror[0m] [0m[0m  println(pessoa1.nome)[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
